@@ -1,2 +1,2 @@
-# books
-All the books that I'm writing.
+# Books
+This repository containts all the books that I'm writing.
