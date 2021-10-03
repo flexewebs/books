@@ -26,6 +26,43 @@ Software that is near perfect gets created by practitioners who **do** follow th
 
 Let's get into it.
 
+## Software Engineering is a discipline
+
+The word 'discipline' is a powerful word. 
+
+It means any one of the following: 
+
+* orderly or prescribed conduct or pattern of behavior
+* training that corrects, molds, or perfects the mental faculties or moral character 
+* a field of study
+* a rule or system of rules governing conduct or activity 
+
+Software Engineering discripline is a fine combination of all those definitions. 
+
+It's one of the most precise forms of art I know of. 
+
+Precision and unambiguity are **the core building blocks** of great Software Engineering. 
+
+Yet, there is a massive need for redability, understandability, sense making and general philosophical coherence within the whole creation.
+
+Just like in life itself. 
+
+As such, Software Engineering mirrors life very closely. 
+
+For most part, humans are trying to automate life with software anyway.
+
+They are biomimicring nature with machines.
+
+This is why understanding (human) nature is also very important before we can become great software engineers. 
+
+Almost nobody will ever tell you this in any training programme or University. 
+
+However, as soon as you get into the work environment, you realise that the human factor plays 80%+ of the role in the success or failure of any software. 
+
+This is why getting humans to work together in a more disciplined way is the key to successful software.
+
+Discipline itself is built on principles, which need to be followed as closely as possible.
+
 ## Principle 1: Caring
 
 'What's 'caring' got to do with Software Engineering?' you might ask. 
