@@ -49,17 +49,19 @@ Just like in life itself.
 
 As such, Software Engineering mirrors life very closely. 
 
-For most part, humans are trying to automate life with software anyway.
+For most part, humans are aiming to automate life with software.
 
 They are biomimicring nature with machines.
 
-This is why understanding (human) nature is also very important before we can become great software engineers. 
+This is yet another correlation between software and real life.
+
+This is why understanding (human) nature is also very important, before we can become great software engineers. 
 
 Almost nobody will ever tell you this in any training programme or University. 
 
-However, as soon as you get into the work environment, you realise that the human factor plays 80%+ of the role in the success or failure of any software. 
+However, as soon as you get into the work environment, you realise that the human factor plays 80%+ of the role in the success or failure of any software project. 
 
-This is why getting humans to work together in a more disciplined way is the key to successful software.
+This is why getting humans to work together in a more disciplined way is one of the keys to successful software.
 
 Discipline itself is built on principles, which need to be followed as closely as possible.
 
