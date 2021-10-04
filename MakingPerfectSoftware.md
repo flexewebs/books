@@ -2,6 +2,8 @@
 
 ## The masterful art of the seemingly impossible
 
+### Authors: [Jason Grant, MSc](http://jasongrant.in)
+
 After 20 years of software design and engineering practice, I realised it's about time I too start writing about making software. 
 
 I decided to document what I know for all those who want to make great software. 
@@ -25,6 +27,132 @@ Far from optimal software gets created by practitioners who do not follow princi
 Software that is near perfect gets created by practitioners who **do** follow these guidelines. 
 
 Let's get into it.
+
+## How I got into Software Engineering
+
+I remember the days in late 1980s, when I first started programming. 
+
+C64 computer manual was the main form of 'Software Engineering' that was accessible to me. 
+
+It was the beginning of exposue to computers for me. 
+
+At the time I couldn't speak English at all. 
+
+The way I learnt to code (largely) was by typing in other people's programmes during a computer club I attended, or by reverse engineering code knowledge from error messages from misloaded computer games. 
+
+Within months, a bunch of us had worked out what majority of commands meants and how they were to be used. 
+
+We soon started writing our own programmes, however purposeless they were.
+
+It wasn't long before I started realising that knowing what has been done, how and why was somewhat more interesting than the code itself. 
+
+This meta framework of organising code in a way that is best to work with became my obsession from the age of around 9 years old. 
+
+The rest is, quite literally, history.
+
+## Super short history of Software Engineering
+
+Software Engineering has gone through a number of phases of evolution, as does everything else. 
+
+### Phase 1: Local software 
+
+Software was written for a single machine. 
+
+Made on the same machine which it was to be run on. 
+
+This in itself was success, as everything undocumented or, at best, badly documented. 
+
+Software was written through trial and error. 
+
+Memory was super small, machines were super large and porting code from one machine to another was virtually impossible. 
+
+### Phase 2: Manually distributed software 
+
+Removable memory was invented. 
+
+Either in form of punched cards, tapes or eventually disks (such as floppy disks or Compact Discs).
+
+As external memory became cheaper and larger, manually distributed software became possible. 
+
+This gave rise to companies such as Microsoft, which made operating systems distributed on CDs a big businesses. 
+
+Software updates would be delivered on yearly basis, if that. 
+
+Each build and release was heavily tested to work as well as possible after installation from disc. 
+
+Knowing whether the software worked on the target machines was virtually impossible. 
+
+Internet still didn't exist for the large part. 
+
+### Phase 3: Network distributed software 
+
+In this phase, software is distributed over the Internet. 
+
+People download the code and they install it on their machines. 
+
+Software itself still runs on and for the local machine, with occassional ability to connect to the internet, for special purposes. 
+
+Data is stored on the local machine (for the most part).
+
+Personal profiles either don't exist or they are local to that particular user and that particular machine. 
+
+Software gets unlocked with a licence key, which is also for a person or per machine. 
+
+### Phase 4: Networked software 
+
+Software is now connected to the internet and there is a notion of an online profile. 
+
+Much of the activity of the software runs online, but local machine installed code is still necessary.
+
+More of the data software produces is stored online or backed up online. 
+
+Internet connection is required for the software to work (fully).
+
+Local machine functionality is used for 'rich' functions and everything else simple is handed over the network processing. 
+
+### Phase 5: SaaS 
+
+The entire software is now on the web, served from the web, running from the web, storing data on the web and accessed and  updated through the web.
+
+The user never has to worry about 'getting' the software.
+
+The user now 'goes to' the software if and when they like it. 
+
+All the activity, data and functionality happens on the web and nothing is ever 'lost' if the user's local machine stops working. 
+
+Software is no longer a product, but a continuously evolving service, which the user expects to be up to date all the time and continuously improved. 
+
+Bugs and issues are expected not to exist and User Experience is one of the main differentiating factors. 
+
+User expects to be able to access the software seamlessly from any kind of a device and for it to be useful, usable and enjoyable to use at all times. 
+
+User doesn't expect to have to 'learn' the software, but wants the software to 'lend' itself for easy and intuitive use without any training. 
+
+Updates and improvements happen on regular basis and are part and parcel of the Software as a Service agreement. 
+
+Data created and managed by the user is still owned by the user, but the company delivering SaaS solution manages it and keeps it safe, secure and conherent. 
+
+SaaS software runs on one or more centralised cloud service providers, who provide hardware and software services that enable the cloud software to run on public or private cloud.
+
+### Phase 6: Blockchain 
+
+Software is now becoming decentralised or distributed. 
+
+Digital money (cryptocurrency) is an integral part of the software capabilities.
+
+Much of the algorithm is running on a distributed network of nodes, which are responsible for processign and validating transactions between node wallets. 
+
+Users own the core data in their wallets on their own local devices. 
+
+The rest of the transaction information is stored publicly on immutable Blockchain ledger, which transparently shows all (mostly financial) transactions between wallets. 
+
+Core software is developed as open source code set which is available for everyone to inspect and part take in co-creating. 
+
+More and more SaaS tools are becoming disrupted by DApps (Distributed Apps) where use interactions are the most valuable part of the software. 
+
+Data becomes more important and valuable part of the software (in many cases) than the algorithm which is processing it. 
+
+The software is much more about giving granulated control over the data back to the users and leaving it to them to manage its security on the consumer end. 
 
 ## Software Engineering is a discipline
 
