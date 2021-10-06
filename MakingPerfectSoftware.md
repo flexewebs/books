@@ -193,6 +193,81 @@ This is why getting humans to work together in a more disciplined way is one of 
 
 Discipline itself is built on principles, which need to be followed as closely as possible.
 
+## Aspects of Software Engineering discipline
+
+Many people might think that software is all about maths, machines and mechanics. 
+
+All those are certain an important aspect of software, but they are by no means the only aspect. 
+
+Software Engineering is made up of (at the very least) following aspects: 
+
+1. Mechanics (the core notion behind the term 'Engineering')
+2. Philosophy (overall idea of how information should be organised)
+3. Psychology (how the mechanics of software work with mechanics of human minds)
+4. Economics (how (energy) efficient software is compared to non-software solution)
+
+Let's look into more details of each one of these aspects of Software Engineering.
+
+## Mechanics 
+
+Software is great at automating those things which are either mechanical in nature or can be sequenced as a set of repeatable, procedural steps.
+
+Software also works very well for clearly structured things. 
+
+The word 'thing' is the key here. 
+
+Things are objects which can be described with their attributes, functionalities they can perform and information they take in and put back out. 
+
+Unless we are dealing with things, creating software will be hard or impossible.
+
+Things 'string together' into mechanical creations, which are carefully (which I like to split up into care-fully) put together to create higher order value. 
+
+## Philosophy 
+
+Philosophy is 'The study of the nature, causes, or principles of reality, knowledge, or values, based on logical reasoning.' 
+
+This definition is describing the core activities Software Engineers and Architects part take in to create software. 
+
+Logical reasoning is very important in Software Engineering. 
+
+The dynamics of causes and effects are at play here all the time. 
+
+Being able to manipulate these causes and effects (in form of data and information) is what Software Engineering is all about. 
+
+The manipulation needs to be as close to 100% predictable and testable as possible. 
+
+This is why the formal qualification related to Software Engineering is called Computer Science. 
+
+## Psychology 
+
+Developers create software. 
+
+Before them, designers and software architects define software. 
+
+All these different kinds of humans possess psychology.
+
+The mental models they understand, work with and ultimately put into practice. 
+
+People using software also have their own psychology.
+
+This is why human psychology plays a massive role in Software Engineering.
+
+Great Software Engineers don't only make software useful, usable and valuable for machines, but also make it useful, usable and easy to work with for humans, respecting general principles of psychology.
+
+## Economics 
+
+The main reason why humans started building software is to automate repetative tasks. 
+
+Automation leads to better economic situation, as it leads to cheaper way to run bigger operations. 
+
+As civilisation becomes more complex, there is an increasing need for software (automation) to enable economic prosperity to continue, without overloading the economic circuits in the process.
+
+Without software, vast majority of modern day infrastructure could not run at all.
+
+With software, it can not only run, but be economically viable in the long(er) term.
+
+When you are engineering software, you need to remember the economics of your choices, as, sooner or later, they will come to surface to either enable or disable future life of that software.
+
 ## Principle 1: Caring
 
 'What's 'caring' got to do with Software Engineering?' you might ask. 
