@@ -208,20 +208,6 @@ Software Engineering is made up of (at the very least) following aspects:
 
 Let's look into more details of each one of these aspects of Software Engineering.
 
-## Mechanics 
-
-Software is great at automating those things which are either mechanical in nature or can be sequenced as a set of repeatable, procedural steps.
-
-Software also works very well for clearly structured things. 
-
-The word 'thing' is the key here. 
-
-Things are objects which can be described with their attributes, functionalities they can perform and information they take in and put back out. 
-
-Unless we are dealing with things, creating software will be hard or impossible.
-
-Things 'string together' into mechanical creations, which are carefully (which I like to split up into care-fully) put together to create higher order value. 
-
 ## Philosophy 
 
 Philosophy is 'The study of the nature, causes, or principles of reality, knowledge, or values, based on logical reasoning.' 
@@ -237,6 +223,20 @@ Being able to manipulate these causes and effects (in form of data and informati
 The manipulation needs to be as close to 100% predictable and testable as possible. 
 
 This is why the formal qualification related to Software Engineering is called Computer Science. 
+
+## Mechanics 
+
+Software is great at automating those things which are either mechanical in nature or can be sequenced as a set of repeatable, procedural steps.
+
+Software also works very well for clearly structured things. 
+
+The word 'thing' is the key here. 
+
+Things are objects which can be described with their attributes, functionalities they can perform and information they take in and put back out. 
+
+Unless we are dealing with things, creating software will be hard or impossible.
+
+Things 'string together' into mechanical creations, which are carefully (which I like to split up into care-fully) put together to create higher order value. 
 
 ## Psychology 
 
@@ -313,3 +313,9 @@ Perfect software, however, over time keeps producing higher and higher ROI by be
 Most cowboy developers don't even begin to understand this and, as such, will come into teams, quickly 'pollute' the codebase with junk code and before you even know your software is impossible to work with. 
 
 If every member within the team does not deeply care about what they are making, your software project is already in potentially very deep trouble. 
+
+## Principle 2: Precision
+
+## Principle 3: Atomicity
+
+## 
