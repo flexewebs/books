@@ -318,4 +318,16 @@ If every member within the team does not deeply care about what they are making,
 
 ## Principle 3: Atomicity
 
-## 
+## Principle 4: Understanding
+
+## Principle 5: Architecture 
+
+## Principle 6: Interface 
+
+## Principle 7: Testability 
+
+## Principle 8: Clarity 
+
+## Principle 9: Semanticity 
+
+## Principle 10: Optimality 
