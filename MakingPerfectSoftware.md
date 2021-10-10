@@ -316,6 +316,30 @@ If every member within the team does not deeply care about what they are making,
 
 ## Principle 2: Precision
 
+Precision is a rarely discussed idea in today's world. 
+
+Yet, the reason why Swiss watches have been valued over decades is precisely their precision. 
+
+Any kind of an instrument is valuable because it is precise. 
+
+A ruler needs to precisely help you measure and mark up a distance between two points, as well as draw a straight line between those two points. 
+
+A weighing scale need to tell you how much weight is on it, as precisely as possible. 
+
+A car autopilot needs to precisely get the car through a route without bumping into things and causing damage. 
+
+A blockchain ledger needs to precisely record a set of entries within it. 
+
+Without precision, no tool or instrument is valuable. 
+
+Software, beyond anything else, needs to be as precisely defined, programmed and run as possible. 
+
+Imprecisions mount up to great problems and troubles down the road. 
+
+We typically refer to them as 'bugs', but the word 'imprecisions' is perhaps a much better description of what 'bugs' actually are. 
+
+The more precise you get your software and words to be, the more valuable it will be in the long run.
+
 ## Principle 3: Atomicity
 
 ## Principle 4: Understanding
