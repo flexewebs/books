@@ -342,6 +342,30 @@ The more precise you get your software and words to be, the more valuable it wil
 
 ## Principle 3: Atomicity
 
+An atom is an irreducible part of whole. 
+
+The smallest possible level of a component which contributes to the overall working of the system. 
+
+Every perfect system is made from atomic units.
+
+These atomic units can be (in theory) oriented around any kind of a core focus: objects, functions, aspects, etc. 
+
+Many people prefer object oriented approach, yet that is really just one (commonly adopted) approach to building software. 
+
+It's not 'better' per se, just, perhaps, more commonly understood, even though most people, when pressed hard enough, will admit they don't really know object-oriented programming well enough.
+
+Either way, atomicity is the key principle here. 
+
+Working with, to start off with, irreducible atomic units within software is essential. 
+
+Those atomic units must be fully tested, working, sense making and perfectly created. 
+
+They are going to get reused many, many times and, if they don't work, they will break everyting else. 
+
+On the other hand, if those atomic units work perfectly, they are 'lending perfection' to higher order components (molecules and compounds) in the software.
+
+Through this approach, software has exponentially higher chance of being perfect in bigger form than with any other approach. 
+
 ## Principle 4: Understanding
 
 ## Principle 5: Architecture 
