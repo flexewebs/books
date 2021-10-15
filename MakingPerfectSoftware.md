@@ -368,6 +368,28 @@ Through this approach, software has exponentially higher chance of being perfect
 
 ## Principle 4: Understanding
 
+One of the trickiest aspects of Software Engineering is that it is necessary for software makers to understand the domain within which they are working in. Domains can be of different types such as: business domain, subject domain, functional domain, etc.
+
+Without understanding, software makers will psycho-project their own thinking into the software and bring in incorrect and broken architecture, structure and even functionality. 
+
+To undo that brokenness can be many orders of magnitude more work than to not bring in it in the first place. 
+
+This is why understanding should precede making software. 
+
+In many modern 'agile' approaches, companies are so keen to 'get on' with writing (broken) code that they skip the understanding step altogether. 
+
+Several months later it starts transpiring that what has been built so far was all made with lack of proper understanding. 
+
+Only then does the step of understanding need to happen, at which point there is technical debt, bad team energy and various other downsides such as projects starting to be late.
+
+Design plays a key role in the aiding and enabling understanding of the domain the software operate in. 
+
+Without proper design up front, there is going to be lack of understanding within the engineering team and that lack of understanding will cost **a lot** of money, time and human energy to clarify.
+
+This happens almost all the time in companies and contexts where understanding principles is not valued much.
+
+Companies start paying the prices of the lack of understanding pretty soon and more and more so as the time progresses.
+
 ## Principle 5: Architecture 
 
 ## Principle 6: Interface 
