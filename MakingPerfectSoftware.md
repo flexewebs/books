@@ -52,7 +52,7 @@ The rest is, quite literally, history.
 
 ## Super short history of Software Engineering
 
-Software Engineering has gone through a number of phases of evolution, as does everything else. 
+Software Engineering has gone through a number evolutionary phases. 
 
 ### Phase 1: Local software 
 
